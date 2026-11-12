@@ -1,18 +1,57 @@
-# Python-generated files
+# Python - Cache & Compiled Files
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.coverage
+.coverage.*
+htmlcov/
+
+# Python - Build & Distribution
 build/
 dist/
 wheels/
-*.egg-info
+*.egg
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
 
-# Virtual environments
-.venv
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
 
-# macOS metadata
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE & Local Development Tools
+.vscode/
+.idea/
+.codegraph/
+.serena/
+*.swp
+*.swo
+*~
+
+# macOS Metadata
 .DS_Store
+.AppleDouble
+.LSOverride
 ._*
 __MACOSX/
+.Spotlight-V100
+.Trashes
 
-.codegraph/
+# Local Configuration & Secrets
+.env
+.env.*
+!.env.example
+*.local
+*.log
+
+# Local Documents
 docs/
