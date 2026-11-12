@@ -1,0 +1,451 @@
+{
+  "repository": "https://github.com/citylearn-project/CityLearn",
+  "commit": "fd86484b8b438f03eb40c3ec06dc90caa349842d",
+  "downloaded_at_utc": "2026-11-11T07:56:46.286697+00:00",
+  "files": [
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_1.csv",
+      "bytes": 349473,
+      "git_blob_sha1": "f3acdef42cbcd55307e1da7d813a018533091980",
+      "sha256": "7c80028c65f636dfdaea168447fddc1cd71da4cc16329e2e0fba1f723d2c916e"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_10.csv",
+      "bytes": 350339,
+      "git_blob_sha1": "90eac4dc8424b655abaa59f72ccfacac8bf4e1c9",
+      "sha256": "d8e4abd5d71ce889423e3239244940ed1c7f7efd0312b17c313ec138883739a4"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_11.csv",
+      "bytes": 348376,
+      "git_blob_sha1": "894fca06345d5015e373862caacc23d71debbab2",
+      "sha256": "c836eed05a64c8d1b1b1e01292f0dd1c4e41f884b5567020a8047af98fe506c9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_12.csv",
+      "bytes": 370583,
+      "git_blob_sha1": "fcbdc2fc1a7be166cf7cc85711b7d80d68061fae",
+      "sha256": "699e9a57a866d6e657974df00439f904b3775cd5bed64768704dd0bf4a8fdc83"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_13.csv",
+      "bytes": 348311,
+      "git_blob_sha1": "ec2e61eb8c67925efd93ea52f241808846e20aeb",
+      "sha256": "77a0bb52f706c32a67938e4db02796ac8ad16f97ab8665eb748a4d1824f0fbe2"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_14.csv",
+      "bytes": 353946,
+      "git_blob_sha1": "892d3ff2bcb9af3bbd93c321c75efa5d52611370",
+      "sha256": "07f855121c0084552925579e7e33cf128050745b97e989a227570ef4e1470a1b"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_15.csv",
+      "bytes": 350365,
+      "git_blob_sha1": "fa66b7180196742aa7f995a396d242453c6459a4",
+      "sha256": "67c4c0f78d4598394838b3ba3b853d84b3712de46022bd2aa56ab51b76873606"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_16.csv",
+      "bytes": 347298,
+      "git_blob_sha1": "b15d5ba764d1715be68bb98ffc717090fd306306",
+      "sha256": "16da28c7e6ea9bd496945e3e2d402d10aac6a1f71840b0f691a7539165ca0486"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_17.csv",
+      "bytes": 347470,
+      "git_blob_sha1": "a1771d2ced7d42f66878373c7a6f57a5ab690b65",
+      "sha256": "cab102276853fce3455b2d21f3d8435e5381079de59a34390985d1f8bb9893c6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_2.csv",
+      "bytes": 349891,
+      "git_blob_sha1": "4fea4e77127e82e0c6a9017008af49f5958ea619",
+      "sha256": "9742af5be4e83606b0f0c9a83ecc6312b860a049cbced7e6142a169769b57cf9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_3.csv",
+      "bytes": 351295,
+      "git_blob_sha1": "be7cc721f6c1750ccfef18ef7a687e073dcd088e",
+      "sha256": "981b24cd13fdfc1ffc688fa7a96e83e138be073b5ec3e27cd4ce3e457bbe87f1"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_4.csv",
+      "bytes": 349144,
+      "git_blob_sha1": "6ab15249d17eb91c8607201fc28768d9a346536e",
+      "sha256": "eff80b585e2e839b95f591914c83e6daefad01884ab8acdd381cc0ba5134a530"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_5.csv",
+      "bytes": 351598,
+      "git_blob_sha1": "78727cfef4506d9460c56076b00b3bac5e2710c8",
+      "sha256": "0579790ee34c11b8ba6b7430e1b85d0506353399da76621d018b552f8d5d62d9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_6.csv",
+      "bytes": 352804,
+      "git_blob_sha1": "07ccf865e2a4e8c4cb093b5ac00be251c4ad6029",
+      "sha256": "ead9a4c2a6c5ca2526dbf747584a84c06d5990eb62c9482db607dc5719c02176"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_7.csv",
+      "bytes": 355960,
+      "git_blob_sha1": "d6a9760bae7cc5fd56f4083c9245c5ce329fa13d",
+      "sha256": "d140651d84c05dbd1f9a32a17fba5aaa21204685d37d508ebd17398783ccd1dc"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_8.csv",
+      "bytes": 350323,
+      "git_blob_sha1": "b37e19145fa118e8d5768eb8b74ca36607b46634",
+      "sha256": "a912f82d8e11aef7e40f6e1af087ac975c5d41dd570dbba50eb5ac0a5f715db5"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/Building_9.csv",
+      "bytes": 350744,
+      "git_blob_sha1": "00154dd82d3b6d5269781cdd0df6f616ce361b61",
+      "sha256": "9be368c246f58050f56fc64d31df2966be2e74127aade0b330b2c40849ca08d6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/carbon_intensity.csv",
+      "bytes": 95442,
+      "git_blob_sha1": "af3def430b11aba6edaf57931d204e1a7d4b52aa",
+      "sha256": "3f54295997075a3643a7e5ddee8d8b56fc1c63531ab4387cac77ae1888e1dd93"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/pricing.csv",
+      "bytes": 169776,
+      "git_blob_sha1": "3a67b069baa61120fd061281ee9c67dc21e7ace9",
+      "sha256": "bb94629d83146658c38015ebf8dade815c2557cd8a6c1abb7e1edc5012a483c6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/schema.json",
+      "bytes": 17828,
+      "git_blob_sha1": "fe891669e3358c3901705030481aa8be41660ffd",
+      "sha256": "b1c3546de688298f428ca61d6300826dba0f73147534d3953b9378db789db6c3"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all/weather.csv",
+      "bytes": 690512,
+      "git_blob_sha1": "ecd0ccb2c701bccf7e4564eb74aeeb45a00cc5f6",
+      "sha256": "a8b6b70d10fd854b211d63b9376e364f21d227d78ece4fadc38b09d47bb0a75f"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_1.csv",
+      "bytes": 349473,
+      "git_blob_sha1": "f3acdef42cbcd55307e1da7d813a018533091980",
+      "sha256": "7c80028c65f636dfdaea168447fddc1cd71da4cc16329e2e0fba1f723d2c916e"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_10.csv",
+      "bytes": 350339,
+      "git_blob_sha1": "90eac4dc8424b655abaa59f72ccfacac8bf4e1c9",
+      "sha256": "d8e4abd5d71ce889423e3239244940ed1c7f7efd0312b17c313ec138883739a4"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_11.csv",
+      "bytes": 348376,
+      "git_blob_sha1": "894fca06345d5015e373862caacc23d71debbab2",
+      "sha256": "c836eed05a64c8d1b1b1e01292f0dd1c4e41f884b5567020a8047af98fe506c9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_12.csv",
+      "bytes": 370583,
+      "git_blob_sha1": "fcbdc2fc1a7be166cf7cc85711b7d80d68061fae",
+      "sha256": "699e9a57a866d6e657974df00439f904b3775cd5bed64768704dd0bf4a8fdc83"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_13.csv",
+      "bytes": 348311,
+      "git_blob_sha1": "ec2e61eb8c67925efd93ea52f241808846e20aeb",
+      "sha256": "77a0bb52f706c32a67938e4db02796ac8ad16f97ab8665eb748a4d1824f0fbe2"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_14.csv",
+      "bytes": 353946,
+      "git_blob_sha1": "892d3ff2bcb9af3bbd93c321c75efa5d52611370",
+      "sha256": "07f855121c0084552925579e7e33cf128050745b97e989a227570ef4e1470a1b"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_15.csv",
+      "bytes": 350365,
+      "git_blob_sha1": "fa66b7180196742aa7f995a396d242453c6459a4",
+      "sha256": "67c4c0f78d4598394838b3ba3b853d84b3712de46022bd2aa56ab51b76873606"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_16.csv",
+      "bytes": 347298,
+      "git_blob_sha1": "b15d5ba764d1715be68bb98ffc717090fd306306",
+      "sha256": "16da28c7e6ea9bd496945e3e2d402d10aac6a1f71840b0f691a7539165ca0486"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_17.csv",
+      "bytes": 347470,
+      "git_blob_sha1": "a1771d2ced7d42f66878373c7a6f57a5ab690b65",
+      "sha256": "cab102276853fce3455b2d21f3d8435e5381079de59a34390985d1f8bb9893c6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_2.csv",
+      "bytes": 349891,
+      "git_blob_sha1": "4fea4e77127e82e0c6a9017008af49f5958ea619",
+      "sha256": "9742af5be4e83606b0f0c9a83ecc6312b860a049cbced7e6142a169769b57cf9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_3.csv",
+      "bytes": 351295,
+      "git_blob_sha1": "be7cc721f6c1750ccfef18ef7a687e073dcd088e",
+      "sha256": "981b24cd13fdfc1ffc688fa7a96e83e138be073b5ec3e27cd4ce3e457bbe87f1"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_4.csv",
+      "bytes": 349144,
+      "git_blob_sha1": "6ab15249d17eb91c8607201fc28768d9a346536e",
+      "sha256": "eff80b585e2e839b95f591914c83e6daefad01884ab8acdd381cc0ba5134a530"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_5.csv",
+      "bytes": 351598,
+      "git_blob_sha1": "78727cfef4506d9460c56076b00b3bac5e2710c8",
+      "sha256": "0579790ee34c11b8ba6b7430e1b85d0506353399da76621d018b552f8d5d62d9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_6.csv",
+      "bytes": 352804,
+      "git_blob_sha1": "07ccf865e2a4e8c4cb093b5ac00be251c4ad6029",
+      "sha256": "ead9a4c2a6c5ca2526dbf747584a84c06d5990eb62c9482db607dc5719c02176"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_7.csv",
+      "bytes": 355960,
+      "git_blob_sha1": "d6a9760bae7cc5fd56f4083c9245c5ce329fa13d",
+      "sha256": "d140651d84c05dbd1f9a32a17fba5aaa21204685d37d508ebd17398783ccd1dc"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_8.csv",
+      "bytes": 350323,
+      "git_blob_sha1": "b37e19145fa118e8d5768eb8b74ca36607b46634",
+      "sha256": "a912f82d8e11aef7e40f6e1af087ac975c5d41dd570dbba50eb5ac0a5f715db5"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/Building_9.csv",
+      "bytes": 350744,
+      "git_blob_sha1": "00154dd82d3b6d5269781cdd0df6f616ce361b61",
+      "sha256": "9be368c246f58050f56fc64d31df2966be2e74127aade0b330b2c40849ca08d6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/carbon_intensity.csv",
+      "bytes": 95442,
+      "git_blob_sha1": "af3def430b11aba6edaf57931d204e1a7d4b52aa",
+      "sha256": "3f54295997075a3643a7e5ddee8d8b56fc1c63531ab4387cac77ae1888e1dd93"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/demand_response_requests.csv",
+      "bytes": 323,
+      "git_blob_sha1": "d8bc8c2751832c550c5ef1877d1192ecd432b21a",
+      "sha256": "18883a63e651cf09fe24fee56c2d053aa3a67503e1bbe7d7e11e17d06597e187"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/pricing.csv",
+      "bytes": 169776,
+      "git_blob_sha1": "3a67b069baa61120fd061281ee9c67dc21e7ace9",
+      "sha256": "bb94629d83146658c38015ebf8dade815c2557cd8a6c1abb7e1edc5012a483c6"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/schema.json",
+      "bytes": 18576,
+      "git_blob_sha1": "0d5dd9f732c859bfb07a3c702feab457daf5b738",
+      "sha256": "49ee3bdbd690db194d03d3402c0d1a5a59eb6d1e050df724fe10fa9315d49d96"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_demand_response/weather.csv",
+      "bytes": 690512,
+      "git_blob_sha1": "ecd0ccb2c701bccf7e4564eb74aeeb45a00cc5f6",
+      "sha256": "a8b6b70d10fd854b211d63b9376e364f21d227d78ece4fadc38b09d47bb0a75f"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_1.csv",
+      "bytes": 349472,
+      "git_blob_sha1": "1dd3bf7d089eb20c35a3401662572c45066cc8e0",
+      "sha256": "2f3ac93f7fe9997ef6c574ba377d2a15f978f1d746ff24ef5275340c60f2cfb7"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_10.csv",
+      "bytes": 350338,
+      "git_blob_sha1": "78129c2ad09c102391e16fb45ea995b258f54bcc",
+      "sha256": "14150f119baed57ecb011e19a10186e3bb6d0a68e18197baf32858422bdfd272"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_11.csv",
+      "bytes": 348375,
+      "git_blob_sha1": "3a4661a59a0e5e4e66cefc73e61f00e3b2fff3b1",
+      "sha256": "b6fb6693a4210d141899100f4000737a4669497f4c3819f1fc0fea56c697cf69"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_12.csv",
+      "bytes": 370582,
+      "git_blob_sha1": "46ea0ab715d4d7f1e936524fd93fbc71b24bae3c",
+      "sha256": "c59bfa40cc25ab1e4659c6be7358fdcc48882090e84201415b19c7e17851153d"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_13.csv",
+      "bytes": 348310,
+      "git_blob_sha1": "1045fa80334b3ab5a43596273cb5553278ecd649",
+      "sha256": "032886ddc241a6107d8acf0919c29a89eb53ec5675e41671aab86f59d50f8cf7"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_14.csv",
+      "bytes": 353945,
+      "git_blob_sha1": "b396e493cc344371c54c27a3a97454a9be6ac165",
+      "sha256": "ded731263ffa7ba51ab7093bd655ec2b21cd4e4cb347c56cf002dabc92d909e0"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_15.csv",
+      "bytes": 350364,
+      "git_blob_sha1": "b95d047cc7b1630aaf36458dacc8443308cc5600",
+      "sha256": "b4688c45ff18a7ba044c57e84479d74a88cf7fe33c33f2ad786b76e83edca1ac"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_16.csv",
+      "bytes": 347297,
+      "git_blob_sha1": "081002a6806251cf5298c78498a15511a757fe73",
+      "sha256": "8d148c5e09898422f8c2729b5cff91500893f15fced92c500562aa56c3387bd9"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_17.csv",
+      "bytes": 347469,
+      "git_blob_sha1": "16fed6cdc0a5b4b1bcbae984eadf385a61820ae3",
+      "sha256": "c76af70c06d930f5af888b8221cf84795f3789be62c91aad158f2f1cbd481923"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_2.csv",
+      "bytes": 349890,
+      "git_blob_sha1": "651c01aeda3d54c8917ef983d837f57e30e58e8e",
+      "sha256": "0a6e7f4448153d848aa2eacdae236022a04aa1928179987cad10618aed376d6e"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_3.csv",
+      "bytes": 351294,
+      "git_blob_sha1": "d0ca2ee79cc6953fb67c9fd7b571264a3d17f691",
+      "sha256": "ac77b4518bef5d956c85bd7246ef2f506cedc897d1e604dbaa035f6e2a4efb56"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_4.csv",
+      "bytes": 349143,
+      "git_blob_sha1": "f145bff4b6d2f328075c7d8f4b72463370498e75",
+      "sha256": "bc5c83dbd738c3bc1f6b1eb9ba8bf1ce1d6a07b1f0eb1fd8c0ed3ab98b92ad8f"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_5.csv",
+      "bytes": 351597,
+      "git_blob_sha1": "a704a7f19046151694bac5144892d92c9be6c666",
+      "sha256": "aa7ac4a9e29006a85563a56138beab88d7f7aa398c1a226edbf5929abf69ec4e"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_6.csv",
+      "bytes": 352803,
+      "git_blob_sha1": "5a06d5490d32533c8d029ce68c6c3f54a74ff249",
+      "sha256": "b09e3da68d7e90bbcc0cde2a1f73f06269f000c2d3dff4ed3840e8a8d4e08c9a"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_7.csv",
+      "bytes": 355959,
+      "git_blob_sha1": "68c7e78059c9c4ef0c6b4e794172f0a931ffd911",
+      "sha256": "12f41bc6f2f8b67fe87a67fafc36e91f0119fc5b2bb2cd9590277eeb3b330ae5"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_8.csv",
+      "bytes": 350322,
+      "git_blob_sha1": "ea39cc66c4c59a9fca778feee07dd7114322edfa",
+      "sha256": "b2ef0bbe84b0631f1175acc46cf4e4f2f049fb6040fc9d906f886ed36c91cfd0"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/Building_9.csv",
+      "bytes": 350743,
+      "git_blob_sha1": "774f349f89c678707ee51f8eb5cfa09274b21b55",
+      "sha256": "9220efb28f127c7de57919b09f06b52ae6deef3ceae9970e45f05d54c9ee8ece"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/carbon_intensity.csv",
+      "bytes": 95442,
+      "git_blob_sha1": "af3def430b11aba6edaf57931d204e1a7d4b52aa",
+      "sha256": "3f54295997075a3643a7e5ddee8d8b56fc1c63531ab4387cac77ae1888e1dd93"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_10_1.csv",
+      "bytes": 885146,
+      "git_blob_sha1": "513fdfe716d4650e60c2f0a2c280dacbcd20bddb",
+      "sha256": "79f968ebe1a793b25b271780c0d8d709b5be4e0241ca466eb013e117ac0fe0ab"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_12_1.csv",
+      "bytes": 917050,
+      "git_blob_sha1": "ec191e0172b960c305c7adda8034b66f9275fb11",
+      "sha256": "4c1e6ebcccc3822167871019d8c4cf48e59f41f3962be6d9b87ad42f794bff52"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_15_1.csv",
+      "bytes": 890360,
+      "git_blob_sha1": "1fbed1ddcce8977f8236436da9dfb28cc5ea57c2",
+      "sha256": "999ceedb42cc4bb4a96d15d606ba76ab2de8b174e0a888eaaeec4a79cbe6ed71"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_15_2.csv",
+      "bytes": 892672,
+      "git_blob_sha1": "c7545596411a8d4d364047bf84f24afe25c40cb6",
+      "sha256": "7a9135bd23344c96af4bad598366b3dfc22af14f1658e95ae296a0939d4ed7a3"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_1_1.csv",
+      "bytes": 239397,
+      "git_blob_sha1": "b56f2eca1569c27be79ae35866619a5c69d380fa",
+      "sha256": "a686192b71b338ecf6088538bca5330f6ebc015d83d34c1dbecf8d27d6b8d596"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_4_1.csv",
+      "bytes": 248313,
+      "git_blob_sha1": "527d188871ca5e6ae9715cc5b8ccefc9973c5c42",
+      "sha256": "f5100ebff1c09f9cf2847210b9b086a496db60fe42ce2d7989ff9a149882f1a7"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_5_1.csv",
+      "bytes": 901418,
+      "git_blob_sha1": "148ea780081896062d0ac0f4be1647e498e2a34c",
+      "sha256": "6f749bfa3bdbb0911c34f20b474ebe082defdf54b587f9a8b81484af1eec876a"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/charger_7_1.csv",
+      "bytes": 914439,
+      "git_blob_sha1": "675df4a4f8c10da5609920803ff98418be4b7378",
+      "sha256": "13e6a9e1adaecb844c1c64eecee40155172bec737cb24e73d11d319d25eb65c2"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/deferrable_appliance_1_cycle_profiles.csv",
+      "bytes": 21416,
+      "git_blob_sha1": "6efce284058e921c8796717f05ed6cea51579f2b",
+      "sha256": "55de9fc7d1ec87ed1fe61fec31fa054be0f74ddc60f4a313f4db7930ac0775e5"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/deferrable_appliance_1_flexibility_schedule.csv",
+      "bytes": 33906,
+      "git_blob_sha1": "dbbd6cd99f4670cec45e71eeb8d244736ea9ce24",
+      "sha256": "64fd42e41060ac0e9b6caf574910d314a223893c98eeec0fa8f0e6def3cc471c"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/pricing.csv",
+      "bytes": 341630,
+      "git_blob_sha1": "616825c9f6d7e9ff2a8581cfec30f3e8d2b46f1f",
+      "sha256": "e2cb47fabfe3b5cfe4f23d3dfcaf801dabdfa8c46f230a0ecd2f9c926890a28c"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/schema.json",
+      "bytes": 27644,
+      "git_blob_sha1": "5d58d31fd75e4845d73d319c69df34d64223f533",
+      "sha256": "4bdb1e684de8b79a6896baeacf4314d6ac63de6bbb733ea271efa876b28b8538"
+    },
+    {
+      "path": "citylearn_challenge_2022_phase_all_plus_evs/weather.csv",
+      "bytes": 690512,
+      "git_blob_sha1": "ecd0ccb2c701bccf7e4564eb74aeeb45a00cc5f6",
+      "sha256": "a8b6b70d10fd854b211d63b9376e364f21d227d78ece4fadc38b09d47bb0a75f"
+    }
+  ]
+}
